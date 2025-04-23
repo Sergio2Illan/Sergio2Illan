@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sergio2Illan
-- 👀 I’m interested in IOS
-- 🌱 I’m currently learning Swift 5, UIKit, SwiftUI
-- 💞️ I’m looking to collaborate on IOS projects
+- 👀 I’m interested in Front-end
+- 🌱 I’m currently learning Angular, Tailwind CSS
+- 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me illan2sergio@gmail.com
 
 <!---
