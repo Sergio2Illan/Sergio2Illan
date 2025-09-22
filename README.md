@@ -1,61 +1,64 @@
 <h1 align="center">👋 ¡Hola! Soy Sergio</h1>
-<h3 align="center">Futuro Android Developer con conocimientos sólidos en Java, AEM y desarrollo de software 🚀</h3>
+<h3 align="center">Futuro Frontend Developer con conocimientos sólidos en JavaScript, CSS3 y desarrollo web moderno 🚀</h3>
 
 ---
 
 🎯 **Sobre mí**
 
-Soy un desarrollador con experiencia en backend y frontend web, actualmente **enfocado en especializarme en desarrollo Android** con Kotlin y Jetpack Compose. Tengo una base sólida en Java, estoy certificado como AEM Sites Developer y me apasiona crear interfaces intuitivas, eficientes y modernas. Vengo del mundo del desarrollo web y de entornos empresariales, y ahora estoy volcando todo ese conocimiento hacia el desarrollo de apps móviles nativas para Android.
+Soy un desarrollador con experiencia en backend y frontend, actualmente **enfocado en especializarme en desarrollo Frontend** con **JavaScript moderno y frameworks como React o Angular**.  
+Tengo una base sólida en Java y estoy certificado como AEM Sites Developer, lo cual me da una visión completa de entornos empresariales. Sin embargo, mi pasión está en el **desarrollo de interfaces web dinámicas, intuitivas y eficientes**, aplicando las mejores prácticas de diseño y usabilidad.
 
 Actualmente estoy perfeccionando mis habilidades con:
 
-- **Kotlin para Android**
-- **Jetpack Compose**
-- **Material Design**
-- **Arquitectura MVVM**
-- **Testing de UI y lógica**
-- **Consumo de APIs RESTful**
-- **Room, Hilt, Coroutines y Navigation Component**
+- **JavaScript (ES6+)**
+- **React (estudiando actualmente)**
+- **Angular (en progreso)**
+- **CSS3 avanzado (Flexbox, Grid, Animaciones)**
+- **Diseño responsivo y accesible (RWD, ARIA)**
+- **Consumo de APIs REST**
+- **Testing de frontend (Jest, Testing Library, Cypress)**
+- **Gestión de estado (Redux, Context API, RxJS - en aprendizaje)**
+- **Optimización y buenas prácticas de rendimiento web**
 
 ---
 
 🧰 **Tecnologías y herramientas actuales**
 
-- 🤖 Kotlin + Android Studio (Jetpack Compose, MVVM, Material Design)
-- ☕ Java (Java SE y EE, también usado en Android)
-- 🧱 Jetpack Libraries: Room, Navigation, LiveData, ViewModel
-- 🧪 JUnit, Espresso, Mockito
-- 🔌 Retrofit, Hilt, Coroutines, Gson/Moshi
-- 🌐 HTML5, CSS3, JavaScript
-- 📦 Hibernate (JPA), Spring Boot (aprendiendo)
-- 🗃️ Bases de datos: SQLite, Room, MySQL, PostgreSQL
-- ⚙️ Git, GitHub, GitFlow, Jira
-- 🛠️ IDEs: Android Studio, IntelliJ IDEA, VSCode, Eclipse
-- 🐧 Linux (distros, personalización de entornos, automatización)
+- 🌐 HTML5, CSS3 (Flexbox, Grid, Animaciones)
+- ⚡ JavaScript (ES6+, DOM, Fetch, Async/Await)
+- ⚛️ React *(aprendiendo actualmente)*
+- 🅰️ Angular *(aprendiendo actualmente)*
+- 🎨 Material UI, TailwindCSS, Bootstrap
+- 🧪 Jest, React Testing Library, Cypress *(en progreso)*
+- 🔌 Consumo de APIs con Axios / Fetch
+- 🗃️ Git, GitHub, GitFlow
+- 🛠️ IDEs: VSCode, IntelliJ IDEA
+- 🐧 Linux (automatización y personalización de entornos)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,git,github,linux,sqlite,postgres,mysql,gradle,intellij,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,tailwind,bootstrap,git,github,vscode,linux" />
 </p>
 
 ---
 
-📱 **Enfoque Android**
+💻 **Enfoque Frontend**
 
-Mi objetivo profesional es trabajar como **Android Developer** y crecer en proyectos que utilicen **Kotlin moderno con Jetpack Compose**. Estoy comprometido a mantenerme actualizado y seguir buenas prácticas como Clean Architecture, modularización, testing y uso eficiente de recursos móviles.
+Mi objetivo profesional es trabajar como **Frontend Developer**, creando **experiencias de usuario atractivas y fluidas**.  
+Estoy comprometido a mantenerme actualizado con las últimas tecnologías, seguir principios de **Clean Code, accesibilidad (a11y) y rendimiento web**, además de integrar buenas prácticas en testing y arquitectura de proyectos.
 
 ---
 
 📌 **Proyectos destacados**
 
-*⚠️ ¡Próximamente estaré subiendo mis primeros proyectos Android! En desarrollo: apps de lista de tareas, app de notas con Jetpack Compose y una app conectada a API de películas.*
+*⚠️ ¡Próximamente estaré subiendo más proyectos frontend con React y Angular!*
 
 Mientras tanto, puedes revisar algunos de mis proyectos previos:
 
-- [🔗 JSONExample](https://github.com/Sergio2Illan/JSONExample) – Ejemplo de consumo de API y visualización de datos.
-- [🔗 Nucleus](https://github.com/Sergio2Illan/Nucleus) – Proyecto Java para la gestión de biblioteca con patrón DAO.
 - [🔗 GridWeb](https://github.com/Sergio2Illan/GridWeb) – Ejercicio de diseño web con CSS Grid y enfoque responsivo.
-- [🔗 ArquitecturaBosque](https://github.com/Sergio2Illan/ArquitecturaBosque) – Patrón MVC y diseño en Java.
 - [🔗 TechPro](https://github.com/Sergio2Illan/TechPro) – Sitio web tipo empresa para práctica frontend.
+- [🔗 JSONExample](https://github.com/Sergio2Illan/JSONExample) – Ejemplo de consumo de API y visualización de datos.
+- [🔗 Nucleus](https://github.com/Sergio2Illan/Nucleus) – Proyecto Java con patrón DAO (enfoque backend complementario).
+- [🔗 ArquitecturaBosque](https://github.com/Sergio2Illan/ArquitecturaBosque) – Patrón MVC y diseño en Java (referencia a mi background).
 
 ---
 
@@ -89,4 +92,4 @@ Soy entusiasta de Linux. Personalizo escritorios, configuro entornos minimalista
 
 ---
 
-⚡ *"Nunca dejes de aprender. Cada línea de código te acerca más a tu mejor versión como desarrollador."*
+⚡ *"El frontend no es solo código, es crear experiencias que conectan a las personas con la tecnología."*
